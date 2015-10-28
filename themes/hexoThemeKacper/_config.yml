@@ -30,11 +30,11 @@ article_index:
      content: 实现了一个傻瓜式交互的拆解和拼装的说明书，这是在普通的物体识别基础上更加深入的应用场景，在生活中当你需要拆电脑换部件的时候，拆电视机更换零件的时候，需要组装刚从宜家买回来的家具的时候，这项技术都可以很好的帮到你
      icon: icon-bolt
   -  title: 硅谷的标准
-     content: 我们希望用硅谷的思维来创新，真正将技术应用在前沿，且能实际改变人们生活，使人们生活和这个世界更加美好
+     content: 我们希望用硅谷的思维来创新，真正将前沿技术应用在现实生活中，且能实际改变人们生活，使这个世界变得更加美好 :-P
      icon: icon-lab
-  -  title: Github #Github
-     content: hACKbUSTER/FixPlusPlus 
-     icon: icon-github-alt
+  -  title: 未来 - 更多功能
+     content: 未来我们希望在应用中能有更多实际功能，例如厂商能够通过导入详细设计图纸或模型，以及成规格的说明书来自动生成某一产品的3D说明模型
+     icon: icon-bolt
 
 
 
