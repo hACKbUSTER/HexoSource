@@ -47,5 +47,5 @@ excerpt_link: Read More  #阅读更多的文字显示
 
 # Miscellaneous #社交网络和统计连接地址
 baidu_analytics:  #百度统计
-favicon: 
-logo: 
+favicon: /css/favicon.ico 
+logo: /css/logo.png
